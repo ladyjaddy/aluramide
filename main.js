@@ -1,5 +1,5 @@
 function tocaSomPom(idElentoAudio){
-    document.querySelector(idElentoAudio).
+    document.querySelector(idElentoAudio)
 }
 
 document.querySelectorAll('.tecla')
